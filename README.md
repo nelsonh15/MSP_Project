@@ -24,10 +24,10 @@ These instructions will get you a copy of the project up and running on your loc
 * A Firestore Database account <br>
 
 ## Installation
-1. Clone the repository <br>
-`git clone https://github.com/nelsonh15/MSP_Project.git`
-`cd react-admin`
-`npm install`
+1. Clone the repository and install dependencies <br>
+`git clone https://github.com/nelsonh15/MSP_Project.git` <br>
+`cd react-admin` <br>
+`npm install` <br>
 2. Configure Firestore Database <br>
 * Navigate to Firestore Database and create a new project (if not already done). <br>
 * Obtain your project's configuration object and update the relevant files in the application. <br>
