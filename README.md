@@ -5,12 +5,12 @@ featuring a dashboard for an overview of client ticket statuses, client and tick
 
 ## Key Features
 * **Dashboard Overview**: Provides a quick glance at the current ticket statuses, helping users stay on top of their workload. <br>
-![alt text](https://github.com/nelsonh15/MSP_Project/blob/master/img/Screenshot_1.jpg)
+![alt text](/img/Screenshot_1.jpg)
 * **Client Management**: Enables the creation and management of client profiles, keeping all necessary information in one place. <br>
-![alt text](https://github.com/nelsonh15/MSP_Project/blob/master/img/Screenshot_2.jpg)
+![alt text](/img/Screenshot_2.jpg)
 * **Ticketing System**: Allows users to create, track, and update tickets for efficient issue resolution. <br>
 * **Event Calendar**: Users can set and view events in the calendar, ensuring that important dates and deadlines are not missed. <br>
-![alt text](https://github.com/nelsonh15/MSP_Project/blob/master/img/Screenshot_3.jpg)
+![alt text](/img/Screenshot_3.jpg)
 * **Real-Time Updates**: Powered by Firestore database, the application provides real-time updates across the system. <br>
 * **And more...**
 
