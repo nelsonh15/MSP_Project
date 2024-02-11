@@ -10,7 +10,7 @@ featuring a dashboard for an overview of client ticket statuses, client and tick
 ![alt text](https://github.com/nelsonh15/MSP_Project/blob/master/img/Screenshot_2.jpg)
 * **Ticketing System**: Allows users to create, track, and update tickets for efficient issue resolution. <br>
 * **Event Calendar**: Users can set and view events in the calendar, ensuring that important dates and deadlines are not missed. <br>
-![alt text](https://github.com/nelson1998/MSP_Project/blob/master/img/Screenshot_3.jpg)
+![alt text](https://github.com/nelsonh15/MSP_Project/blob/master/img/Screenshot_3.jpg)
 * **Real-Time Updates**: Powered by Firestore database, the application provides real-time updates across the system. <br>
 * **And more...**
 
