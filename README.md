@@ -19,9 +19,7 @@ featuring a dashboard for an overview of client ticket statuses, client and tick
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-* Node.js (version x.x or above) <br>
-* npm (version x.x or above) <br>
-* A Firestore Database account <br>
+* A Firestore Database <br>
 
 ## Installation
 1. Clone the repository and install dependencies <br>
